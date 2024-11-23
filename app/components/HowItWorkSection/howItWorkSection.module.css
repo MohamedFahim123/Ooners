@@ -1,0 +1,8 @@
+.howItWorks__video {
+    background: linear-gradient(180deg, #139EE8 0%, #20027D 132.92%);
+    width: 750px;
+    height: 450px;
+    border-radius: 24px;
+    margin: 40px auto 0;
+    max-width: 100%;
+}
